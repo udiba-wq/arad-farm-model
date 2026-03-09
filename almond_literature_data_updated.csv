@@ -1,0 +1,62 @@
+Irrigation_m3_per_dunam,Yield_kg_per_dunam,Seasonal_Rainfall_mm,Cultivar,Study,Notes
+50,50.0,200,Multiple,Miras 2023,
+100,70.0,200,Multiple,Miras 2023,
+165,507.3333333333333,355,Marta,Egea 2012,SDI_ms - 37% of FI water
+168,101.0,206,Marta,Egea 2010,
+200,100.0,200,Multiple,Miras 2023,
+236,141.0,274,Ferragnès,Girona 2005,
+239,605.3333333333334,355,Marta,Egea 2012,RDI - 55% of FI water
+243,143.0,238,Guara,Moldero 2021,RDI_S - 29% of FI water
+256,118.0,206,Marta,Egea 2010,
+283,589.6666666666666,355,Marta,Egea 2012,SDI_mm - 63% of FI water
+300,130.0,200,Multiple,Miras 2023,
+326,150.0,243,Guara,Lopez 2018,
+332,121.0,206,Marta,Egea 2010,
+358,128.0,206,Marta,Egea 2010,
+394,1000.0,500,UmElFahem,Naor 2017,Low irrigation - yield estimated from Fig 4a
+399,148.0,274,Ferragnès,Girona 2005,
+400,160.0,200,Multiple,Miras 2023,
+413,1400.0,500,UmElFahem,Naor 2017,Low-medium irrigation
+446,719.6666666666666,355,Marta,Egea 2012,FI - Full irrigation (converted to kg/dunam)
+467,2000.0,500,UmElFahem,Naor 2017,Medium irrigation
+500,190.0,200,Multiple,Miras 2023,
+504,215.0,243,Guara,Lopez 2018,
+524,227.8,238,Guara,Moldero 2021,RDI_M - 62% of FI water
+526,204.0,243,Guara,Lopez 2018,
+566,233.9,238,Guara,Moldero 2021,SDI_M - 67% of FI water
+567,1754.0,200,Nonpareil,Goldhamer 2005,580A - Pre-harvest stress biased
+580,1480.0,200,Nonpareil,Goldhamer 2005,580B - Post-harvest stress biased
+600,180.0,500,UmElFahem,Sperling 2025,Deficit irrigation - estimated yield from Fig 4C
+600,144.0,206,Marta,Egea 2010,
+600,215.0,200,Multiple,Miras 2023,
+605,2500.0,500,UmElFahem,Naor 2017,Medium-high irrigation
+608,176.0,274,Ferragnès,Girona 2005,
+610,1827.0,200,Nonpareil,Goldhamer 2005,580C - Sustained deficit
+695,1849.0,200,Nonpareil,Goldhamer 2005,720A - Pre-harvest stress biased
+700,235.0,200,Multiple,Miras 2023,
+702,1757.0,200,Nonpareil,Goldhamer 2005,720B - Post-harvest stress biased
+754,244.0,243,Guara,Lopez 2018,
+762,1911.0,200,Nonpareil,Goldhamer 2005,720C - Sustained deficit
+799,156.0,274,Ferragnès,Girona 2005,
+800,1839.0,200,Nonpareil,Goldhamer 2005,860A - Pre-harvest stress biased
+800,250.0,200,Multiple,Miras 2023,
+801,2800.0,500,UmElFahem,Naor 2017,High irrigation
+840,265.9,238,Guara,Moldero 2021,FI - Full irrigation (converted to kg/dunam)
+888,1951.0,200,Nonpareil,Goldhamer 2005,860B - Post-harvest stress biased
+892,2008.0,200,Nonpareil,Goldhamer 2005,860C - Sustained deficit
+900,260.0,200,Multiple,Miras 2023,
+900,250.0,500,UmElFahem,Sperling 2025,Moderate irrigation - estimated yield from Fig 4C
+976,2099.0,200,Nonpareil,Goldhamer 2005,Control - 100% ETc
+997,330.0,60,Nonpareil,Goldhamer 2016,
+1000,270.0,200,Multiple,Miras 2023,
+1050,270.0,200,Multiple,Miras 2023,
+1076,350.0,60,Nonpareil,Goldhamer 2016,
+1096,360.0,60,Nonpareil,Goldhamer 2016,
+1146,370.0,60,Nonpareil,Goldhamer 2016,
+1176,380.0,60,Nonpareil,Goldhamer 2016,
+1216,385.0,60,Nonpareil,Goldhamer 2016,
+1250,280.0,500,UmElFahem,Sperling 2025,High irrigation - estimated yield from Fig 4C
+1259,390.0,60,Nonpareil,Goldhamer 2016,
+1320,388.0,60,Nonpareil,Goldhamer 2016,
+1329,387.0,60,Nonpareil,Goldhamer 2016,
+1341,385.0,60,Nonpareil,Goldhamer 2016,

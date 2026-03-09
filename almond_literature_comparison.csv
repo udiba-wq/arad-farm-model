@@ -1,0 +1,10 @@
+parameter,goldhamer_2016,miras_2023,units,notes
+Maximum yield (kg/ha),3900,2700,kg/ha,California vs Spain difference reflects production intensity
+Maximum yield (kg/dunam),390,270,kg/dunam,
+Optimal irrigation (mm),1250,1000,mm,Threshold for maximum yield
+Optimal irrigation (m³/dunam),1250,1000,m³/dunam,
+Slope A (kg/m³),0.251,0.14,kg/m³,Marginal productivity in linear range
+Intercept B (kg/dunam),50,50,kg/dunam,Yield with minimal irrigation
+Max water productivity (kg/m³),0.3,0.27,kg/m³,At optimal point
+Climate,"Arid, Mediterranean","Mediterranean, semi-arid",,
+Mean annual rainfall (mm),118,230-480,mm,Much drier in California site
